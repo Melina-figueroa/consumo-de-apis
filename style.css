@@ -1,11 +1,26 @@
-body{
+body {
     background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: green;
 }
 
-h2{
+h2 {
     text-align: center;
     color: goldenrod;
 }
-tr{
-    color: darkkhaki;
+
+th {
+    border: 2px rgb(164, 196, 100) solid;
+
+}
+
+img {
+    width: 150px;
+}
+
+div {
+    display: flex;
+}
+.ocultar{
+    display: none;
 }
